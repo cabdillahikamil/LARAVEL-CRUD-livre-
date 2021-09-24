@@ -1,0 +1,20 @@
+.menu {
+    display: flex;             
+    padding:0;                  
+    background-color: #ccc;
+    min-width: 120px;  
+    justify-content: center   
+}
+li {
+    min-width: 120px;
+    list-style-type: none ; 
+}
+.footer {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+  }
+  .image {
+    display: flex; 
+  }
+  
